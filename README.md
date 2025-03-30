@@ -5,3 +5,5 @@ This repository contains the code for building a recommendation system using Gra
 The block diagram of the model is shown as below -
 
 ![image](https://user-images.githubusercontent.com/49569284/146238232-5571d243-a6ce-45c7-a3ae-5a8e7e016171.png)
+
+PS: this is for my university term project
